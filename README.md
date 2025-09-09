@@ -1,61 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Hockey Portfolio</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f0f0f0;
-        }
-        header {
-            background-color: #003366;
-            color: white;
-            text-align: center;
-            padding: 20px;
-        }
-        .container {
-            width: 80%;
-            margin: 0 auto;
-            padding: 20px;
-        }
-        .section-title {
-            font-size: 24px;
-            color: #003366;
-            margin-bottom: 15px;
-        }
-        .profile, .achievements, .contact {
-            background-color: #ffffff;
-            padding: 15px;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-            margin-bottom: 30px;
-        }
-        .profile img {
-            width: 150px;
-            border-radius: 50%;
-            margin-bottom: 15px;
-        }
-        .achievements ul {
-            list-style-type: square;
-            margin-left: 20px;
-        }
-        footer {
-            background-color: #003366;
-            color: white;
-            text-align: center;
-            padding: 10px;
-            position: absolute;
-            bottom: 0;
-            width: 100%;
-        }
-    </style>
-</head>
-<body>
-    <header>
+
+<header>
         <h1>Welcome to My Hockey Portfolio</h1>
         <p>Showcasing my journey in hockey and my achievements on and off the ice</p>
     </header>
